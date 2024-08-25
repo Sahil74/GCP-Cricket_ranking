@@ -29,4 +29,4 @@
 
 ## Visulization
 
-![Data Visualization](./.png)
+[View the Project Documentation](./ICC_Ranking_Report.pdf)
