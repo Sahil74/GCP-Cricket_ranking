@@ -14,6 +14,8 @@
 
 ## Project Architecture
 
+![Data Visualization](./cricket_ranking.png)
+
 ## Prerequisites
 
 - Python 3.x installed on your local machine.
@@ -24,3 +26,7 @@
 
 - Automated ETL Process: By running the provided Python script, the entire process from data extraction to loading into BigQuery is automated.
 - Visualization: Use Looker Studio to visualize and analyze the cricket data.
+
+## Visulization
+
+![Data Visualization](./.png)
